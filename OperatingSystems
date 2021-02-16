@@ -1,0 +1,4 @@
+Memory management is another operating system that is important to have in your computer.
+It tracks when memory is freed and updates the status. 
+It decides which process will get memory at what time.
+Main memory acts as central storage unit in a computer system.
